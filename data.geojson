@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 1,
+        "StoreID": 314,
+        "Street": "992 AVE HOSTOS",
+        "City": "MAYAGUEZ",
+        "Zip": 682,
+        "Lat": 18.15450648,
+        "Long": -67.14592284,
+        "Updated": 1643249106.355327,
+        "Total": 62,
+        "BinaxNow": 54,
+        "InteliSwab": 4,
+        "Everlywell": 0,
+        "OnGo": 2,
+        "Labcorp": 0,
+        "QuickVue": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.14592284,
+          18.15450648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 2,
+        "StoreID": 555,
+        "Street": "505 AVE HOSTOS",
+        "City": "MAYAGUEZ",
+        "Zip": 680,
+        "Lat": 18.17727451,
+        "Long": -67.15061003,
+        "Updated": 1643249106.547281,
+        "Total": 11,
+        "BinaxNow": 9,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.15061003,
+          18.17727451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 3,
+        "StoreID": 374,
+        "Street": "2097 AVE HOSTOS",
+        "City": "MAYAGUEZ",
+        "Zip": 682,
+        "Lat": 18.21370885,
+        "Long": -67.14939565,
+        "Updated": 1643249106.783215,
+        "Total": 156,
+        "BinaxNow": 0,
+        "InteliSwab": 80,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.14939565,
+          18.21370885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 4,
+        "StoreID": 121,
+        "Street": "106 CALLE PIEL CANELA",
+        "City": "COAMO",
+        "Zip": 769,
+        "Lat": 18.06633949,
+        "Long": -66.36706576,
+        "Updated": 1643249106.981524,
+        "Total": 788,
+        "BinaxNow": 384,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.36706576,
+          18.06633949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 5,
+        "StoreID": 15915,
+        "Street": "250 CARR 153",
+        "City": "SANTA ISABEL",
+        "Zip": 757,
+        "Lat": 18.00990491,
+        "Long": -66.38549918,
+        "Updated": 1643249107.175271,
+        "Total": 455,
+        "BinaxNow": 33,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.38549918,
+          18.00990491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 6,
+        "StoreID": 10298,
+        "Street": "3480 AVE MILITAR",
+        "City": "ISABELA",
+        "Zip": 662,
+        "Lat": 18.47153545,
+        "Long": -67.02459184,
+        "Updated": 1643249107.370868,
+        "Total": 601,
+        "BinaxNow": 577,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.02459184,
+          18.47153545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 7,
+        "StoreID": 1829,
+        "Street": "80 CARRETERA 308",
+        "City": "CABO ROJO",
+        "Zip": 623,
+        "Lat": 18.08009019,
+        "Long": -67.15643142,
+        "Updated": 1643249107.562282,
+        "Total": 21,
+        "BinaxNow": 13,
+        "InteliSwab": 8,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.15643142,
+          18.08009019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 8,
+        "StoreID": 1476,
+        "Street": "PR 2 AND PR 402",
+        "City": "ANASCO",
+        "Zip": 610,
+        "Lat": 18.2985797,
+        "Long": -67.15814756,
+        "Updated": 1643249107.763674,
+        "Total": 71,
+        "BinaxNow": 64,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.15814756,
+          18.2985797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 9,
+        "StoreID": 7710,
+        "Street": "CALLE PUBLICA AND CARR. 2",
+        "City": "VEGA BAJA",
+        "Zip": 693,
+        "Lat": 18.44617832,
+        "Long": -66.39729513,
+        "Updated": 1643249108.016114,
+        "Total": 33,
+        "BinaxNow": 33,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.39729513,
+          18.44617832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 10,
+        "StoreID": 177,
+        "Street": "CARR #2 KM 129.7",
+        "City": "AGUADILLA",
+        "Zip": 603,
+        "Lat": 18.40901043,
+        "Long": -67.15330294,
+        "Updated": 1643249108.204637,
+        "Total": 447,
+        "BinaxNow": 409,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.15330294,
+          18.40901043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 11,
+        "StoreID": 7521,
+        "Street": "955 CARR 891",
+        "City": "COROZAL",
+        "Zip": 783,
+        "Lat": 18.34137164,
+        "Long": -66.31013136,
+        "Updated": 1643249108.414083,
+        "Total": 19,
+        "BinaxNow": 17,
+        "InteliSwab": 2,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.31013136,
+          18.34137164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 12,
+        "StoreID": 15543,
+        "Street": "17705 CARR. 2, EDIFICIO #2",
+        "City": "AGUADILLA",
+        "Zip": 603,
+        "Lat": 18.44325134,
+        "Long": -67.14673911,
+        "Updated": 1643249108.626239,
+        "Total": 40,
+        "BinaxNow": 14,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.14673911,
+          18.44325134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 13,
+        "StoreID": 811,
+        "Street": "615 CARR 152",
+        "City": "NARANJITO",
+        "Zip": 719,
+        "Lat": 18.27224966,
+        "Long": -66.27362518,
+        "Updated": 1643249108.820282,
+        "Total": 286,
+        "BinaxNow": 264,
+        "InteliSwab": 16,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.27362518,
+          18.27224966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 14,
+        "StoreID": 13869,
+        "Street": "305 AVE SAN JOSE E",
+        "City": "AIBONITO",
+        "Zip": 705,
+        "Lat": 18.14124161,
+        "Long": -66.2593703,
+        "Updated": 1643249109.031199,
+        "Total": 212,
+        "BinaxNow": 86,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 2,
+        "Labcorp": 0,
+        "QuickVue": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.2593703,
+          18.14124161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 15,
+        "StoreID": 12651,
+        "Street": "CARR 165, KM. 4.7.",
+        "City": "TOA ALTA",
+        "Zip": 954,
+        "Lat": 18.34426589,
+        "Long": -66.27762592,
+        "Updated": 1643249109.228023,
+        "Total": 65,
+        "BinaxNow": 46,
+        "InteliSwab": 2,
+        "Everlywell": 0,
+        "OnGo": 1,
+        "Labcorp": 0,
+        "QuickVue": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.27762592,
+          18.34426589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 16,
+        "StoreID": 15240,
+        "Street": "1 CARRETERA 694",
+        "City": "VEGA ALTA",
+        "Zip": 692,
+        "Lat": 18.4137114,
+        "Long": -66.3078657,
+        "Updated": 1643249109.425636,
+        "Total": 44,
+        "BinaxNow": 42,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3078657,
+          18.4137114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 17,
+        "StoreID": 10161,
+        "Street": "1001 AVE PEDRO ALBIZU CAMPOS",
+        "City": "SALINAS",
+        "Zip": 751,
+        "Lat": 17.973531,
+        "Long": -66.289708,
+        "Updated": 1643249109.617022,
+        "Total": 483,
+        "BinaxNow": 435,
+        "InteliSwab": 2,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.289708,
+          17.973531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 18,
+        "StoreID": 13845,
+        "Street": "7006 CARR 693",
+        "City": "DORADO",
+        "Zip": 646,
+        "Lat": 18.4212467,
+        "Long": -66.26671759,
+        "Updated": 1643249109.836241,
+        "Total": 62,
+        "BinaxNow": 43,
+        "InteliSwab": 4,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26671759,
+          18.4212467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 19,
+        "StoreID": 183,
+        "Street": "4210 CARR 693",
+        "City": "DORADO",
+        "Zip": 646,
+        "Lat": 18.464189,
+        "Long": -66.273422,
+        "Updated": 1643249110.054297,
+        "Total": 891,
+        "BinaxNow": 249,
+        "InteliSwab": 0,
+        "Everlywell": 0,
+        "OnGo": 3,
+        "Labcorp": 0,
+        "QuickVue": 639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.273422,
+          18.464189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": 20,
+        "StoreID": 15132,
+        "Street": "1900 CARR. 167 STE #1",
+        "City": "TOA ALTA",
+        "Zip": 953,
+        "Lat": 18.34101654,
+        "Long": -66.20341331,
+        "Updated": 1643249110.246923,
+        "Total": 348,
+        "BinaxNow": 129,
+        "InteliSwab": 62,
+        "Everlywell": 0,
+        "OnGo": 0,
+        "Labcorp": 0,
+        "QuickVue": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.20341331,
+          18.34101654
+        ]
+      }
+    }
+  ]
+}
